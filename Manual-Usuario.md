@@ -13,7 +13,6 @@ output:
 **Nombre del Proyecto:** AGENTURI - Sistema de Gestión de Agencia
 Turística\
 **Nombre del Estudiante:** Carlos H. Zarate\
-**Curso:** \[Por completar\]\
 **Semestre:** Sexto 6to\
 **Fecha:** 20 Noviembre 2025\
 **Instructor:** Jaider Quintero
